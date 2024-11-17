@@ -1,0 +1,5 @@
+﻿  interpreter.cpp
+C:\Users\jayte\OneDrive\Documents\PySub Interpreter\interpreter.cpp(51,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jayte\OneDrive\Documents\PySub Interpreter\interpreter.cpp(407): warning C4715: 'Interpreter::interpretLine': not all control paths return a value
+  LINK : program database C:\Users\jayte\OneDrive\Documents\PySub Interpreter\x64\Debug\PySub Interpreter.pdb missing; performing full link
+  PySub Interpreter.vcxproj -> C:\Users\jayte\OneDrive\Documents\PySub Interpreter\x64\Debug\PySub Interpreter.exe
